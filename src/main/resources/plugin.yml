@@ -1,0 +1,3 @@
+name: MOCLobby
+version: '${project.version}'
+main: ltd.m0c.moclobby.MOCLobby
